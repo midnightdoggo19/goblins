@@ -2,53 +2,61 @@
 The Goblins modpack.
 
 # Contents
-* https://cdn.modrinth.com/data/8hjGGl7z/versions/DIElQy7h/pet_gravestone-fabric-1.21.7-1.0.0.jar
-* https://cdn.modrinth.com/data/VRLhWB91/versions/OW4zczDY/mcw-mcwpaths-1.1.1-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/FzfDwnAi/versions/oqqTGmHd/prideflagmod-1.0.9-fabric1.21.6.jar
-* https://cdn.modrinth.com/data/7vxePowz/versions/YJ79rjkO/FarmersDelight-1.21.8-3.3.3%2Brefabricated.jar
-* https://cdn.modrinth.com/data/EltpO5cN/versions/tNxLeJ6M/lootr-fabric-1.21.6-1.16.40.97.jar
-* https://cdn.modrinth.com/data/lhGA9TYQ/versions/VxCkJjz7/architectury-17.0.6-fabric.jar
-* https://cdn.modrinth.com/data/kNxa8z3e/versions/oliwyioO/mcw-doors-1.1.5-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/hl5OLM95/versions/3pbmqlYX/Geophilic%20v3.5.mod.jar
-* https://cdn.modrinth.com/data/5bb5rG4b/versions/kYFUwMsi/blahaj-fabric-3.2.1%2B1.21.6.jar
-* https://cdn.modrinth.com/data/P7dR8mSH/versions/F5TVHWcE/fabric-api-0.128.2%2B1.21.6.jar
-* https://cdn.modrinth.com/data/NcUtCpym/versions/g8WcXZg9/XaerosWorldMap_1.39.10_Fabric_1.21.6.jar
-* https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar
-* https://cdn.modrinth.com/data/XaDC71GB/versions/ROo8a9VV/lithostitched-fabric-1.21.6-1.4.11.jar
-* https://cdn.modrinth.com/data/n2fvCDlM/versions/EkvPER8Z/mcw-trapdoors-1.1.5-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/fPetb5Kh/versions/gd78727T/NaturesCompass-1.21.6-2.2.9-fabric.jar
-* https://cdn.modrinth.com/data/aKCwCJlY/versions/Nvh2sSPX/Structory_26.1_v1.3.16.jar
-* https://cdn.modrinth.com/data/xlybdB0E/versions/AP4T3D4E/puffish_biome_dither-1.0.0-1.21-fabric.jar
-* https://cdn.modrinth.com/data/foa4fGIH/versions/IpkRndBu/rusticdelight-fabric-1.21.6-1.5.0.jar
-* https://cdn.modrinth.com/data/W4Ajthd2/versions/fRhJsO2r/harvest-with-ease-fabric-1.21.8-9.4.0.jar
-* https://cdn.modrinth.com/data/MBAkmtvl/versions/4arCr13S/balm-fabric-1.21.6-21.6.1.jar
-* https://cdn.modrinth.com/data/1IjD5062/versions/m0cvWhzT/continuity-3.0.1-beta.1%2B1.21.6.jar
-* https://cdn.modrinth.com/data/s7pMb898/versions/59nv2Lz4/nightlights-fabric-1.21.6-7-1.3.0.jar
-* https://cdn.modrinth.com/data/w4an97C2/versions/Oqa2ZBBE/mcw-lights-1.1.5-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/uiADepy3/versions/AO93M0vo/AureljPaintings-1.0.5-1.21.x-fabric.jar
-* https://cdn.modrinth.com/data/9Pk89J3g/versions/wCSHrpuq/justenoughbreeding-fabric-1.21.6-1.6.2.jar
-* https://cdn.modrinth.com/data/GURcjz8O/versions/C7rt5TSP/mcw-bridges-3.1.2-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/hYykXjDp/versions/Ocbwe0sY/fzzy_config-0.7.6%2B1.21.6.jar
-* https://cdn.modrinth.com/data/1bokaNcj/versions/8llFAxyr/Xaeros_Minimap_25.2.7_Fabric_1.21.6.jar
-* https://cdn.modrinth.com/data/okE6QVAY/versions/IeufKpvY/mcw-paintings-1.1.0-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/B8jaH3P1/versions/dCTs2VbX/mcw-roofs-2.3.2-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/Wnxd13zP/versions/BuxKWqLY/Clumps-fabric-1.21.6-24.0.0.2.jar
-* https://cdn.modrinth.com/data/K01OU20C/versions/TUd65hQI/cardinal-components-api-7.0.0-beta.1.jar
-* https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar
-* https://cdn.modrinth.com/data/8oi3bsk5/versions/JKg71Gq0/Terralith_1.21.x_v2.5.13.jar
-* https://cdn.modrinth.com/data/e0M1UDsY/versions/XLJXEnQw/collective-1.21.6-8.4.jar
-* https://cdn.modrinth.com/data/SaCpeal4/versions/UxdA0waQ/comforts-fabric-12.0.0%2B1.21.8.jar
-* https://cdn.modrinth.com/data/iltKD9qU/versions/xqqn3H8d/underlay-1.0.1-fabric-mc1.21.6.jar
-* https://cdn.modrinth.com/data/lWDHr9jE/versions/G6Ed4Wsp/tectonic-3.0.13-fabric-1.21.8.jar
-* https://cdn.modrinth.com/data/dQcfqGbl/versions/IcwcpgD2/cobweb-fabric-1.21.6-1.4.0.jar
-* https://cdn.modrinth.com/data/8BmcQJ2H/versions/cMt8HLkd/geckolib-fabric-1.21.6-5.2.0.jar
-* https://cdn.modrinth.com/data/UyUmjIeI/versions/4CD7TQNa/axolotl-item-fix-1.1.11.jar
-* https://cdn.modrinth.com/data/LOpKHB2A/versions/MXoEdE8m/waystones-fabric-1.21.6-21.6.1.jar
-* https://cdn.modrinth.com/data/ohNO6lps/versions/9IqKMm2N/ForgeConfigAPIPort-v21.6.4-1.21.6-Fabric.jar
-* https://cdn.modrinth.com/data/GmwLse2I/versions/fTkIVXaP/mcw-mcwfences-1.2.1-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/nfn13YXA/versions/hoEFy7aF/RoughlyEnoughItems-20.0.811-fabric.jar
-* https://cdn.modrinth.com/data/JrvR9OHr/versions/5IcgvJ6y/doubledoors-1.21.6-7.0.jar
-* https://cdn.modrinth.com/data/PEPVViac/versions/ZpW1PWB9/AdvancedLootInfo-fabric-1.21.6-1.8.2.jar
-* https://cdn.modrinth.com/data/RSeLon5O/versions/Gjb9nYK0/particle_core-0.3.3%2B1.21.6.jar
-* https://cdn.modrinth.com/data/C7I0BCni/versions/rA9ezVMn/mcw-mcwwindows-2.4.2-mc1.21.6fabric.jar
-* https://cdn.modrinth.com/data/z4CDikCJ/versions/RbKMaFGX/pride-moths-1.9.4%2B1.21.8.jar
+- [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) [1\.8\.2]
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ) [17\.0\.6]
+- [Aurelj's Paintings](https://modrinth.com/mod/uiADepy3) [1\.0\.5]
+- [Axolotl Item Fix](https://modrinth.com/mod/UyUmjIeI) [1\.1\.11]
+- [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.6\.1]
+- [BetterEndCities\-Vanilla\-1\.21\.6](https://www.curseforge.com/projects/959431) [1\.21\.6]
+- [Bigger Better End Cities](https://www.curseforge.com/projects/854786) [1\.21\.5\+\-1\.1\.1]
+- [Blåhaj](https://modrinth.com/mod/5bb5rG4b) [3\.2\.1\+1\.21\.6]
+- [Cardinal Components API](https://modrinth.com/mod/K01OU20C) [7\.0\.0\-beta\.1]
+- [Cloth Config v19](https://modrinth.com/mod/9s6osm5g) [19\.0\.147]
+- [Clumps](https://modrinth.com/mod/Wnxd13zP) [24\.0\.0\.2]
+- [Cobweb](https://modrinth.com/mod/dQcfqGbl) [1\.4\.0]
+- [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.4]
+- [Comforts](https://modrinth.com/mod/SaCpeal4) [12\.0\.0\+1\.21\.8]
+- [Continuity](https://modrinth.com/mod/1IjD5062) [3\.0\.1\-beta\.1\+1\.21\.6]
+- [Double Doors](https://modrinth.com/mod/JrvR9OHr) [7\.0]
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0\.128\.2\+1\.21\.6]
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.12\+kotlin\.2\.4\.0]
+- [FallingTree](https://www.curseforge.com/projects/349559) [1\.21\.6\.7]
+- [Farmer's Delight](https://modrinth.com/mod/7vxePowz) [1\.21\.8\-3\.3\.3\+refabricated]
+- [FastLeafDecay](https://www.curseforge.com/projects/230976) [36]
+- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) [21\.6\.4]
+- [Framework](https://www.curseforge.com/projects/549225) [0\.12\.3]
+- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0\.7\.6\+1\.21\.6]
+- [GeckoLib 5](https://modrinth.com/mod/8BmcQJ2H) [5\.2\.0]
+- [Geophilic](https://modrinth.com/mod/hl5OLM95) [3\.5]
+- [GlitchCore](https://www.curseforge.com/projects/955399) [2\.6\.0\.5]
+- [Goblin Traders](https://www.curseforge.com/projects/363703) [1\.11\.1]
+- [Happy Pride Moth\!](https://modrinth.com/mod/z4CDikCJ) [1\.9\.4\+1\.21\.8]
+- [Harvest with ease](https://modrinth.com/mod/W4Ajthd2) [9\.4\.0]
+- [Just Enough Breeding](https://modrinth.com/mod/9Pk89J3g) [1\.6\.2]
+- [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.4\.11]
+- [Lootr](https://modrinth.com/mod/EltpO5cN) [1\.21\.6\-1\.16\.40\.97]
+- [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [3\.1\.2]
+- [Macaw's Doors](https://modrinth.com/mod/kNxa8z3e) [1\.1\.5]
+- [Macaw's Fences and Walls](https://modrinth.com/mod/GmwLse2I) [1\.2\.1]
+- [Macaw's Lights and Lamps](https://modrinth.com/mod/w4an97C2) [1\.1\.5]
+- [Macaw's Paintings](https://modrinth.com/mod/okE6QVAY) [1\.1\.0]
+- [Macaw's Paths and Pavings](https://modrinth.com/mod/VRLhWB91) [1\.1\.1]
+- [Macaw's Roofs](https://modrinth.com/mod/B8jaH3P1) [2\.3\.2]
+- [Macaw's Trapdoors](https://modrinth.com/mod/n2fvCDlM) [1\.1\.5]
+- [Macaw's Windows](https://modrinth.com/mod/C7I0BCni) [2\.4\.2]
+- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1\.21\.6\-2\.2\.9\-fabric]
+- [Night Lights](https://modrinth.com/mod/s7pMb898) [1\.3\.0]
+- [Particle Core](https://modrinth.com/mod/RSeLon5O) [0\.3\.3\+1\.21\.6]
+- [Pet Gravestone](https://modrinth.com/mod/8hjGGl7z) [1\.0\.0]
+- [Pride Update](https://modrinth.com/mod/FzfDwnAi) [1\.0\.9]
+- [Pufferfish's Biome Dither](https://modrinth.com/mod/xlybdB0E) [1\.0\.0]
+- [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) [20\.0\.811]
+- [Rustic Delight](https://modrinth.com/mod/foa4fGIH) [1\.5\.0]
+- [SereneSeasons](https://www.curseforge.com/projects/291874) [21\.6\.0\.0]
+- [Structory](https://modrinth.com/mod/aKCwCJlY) [1\.3\.16]
+- [Tectonic](https://modrinth.com/mod/lWDHr9jE) [3\.0\.13]
+- [Terralith](https://modrinth.com/mod/8oi3bsk5) [2\.5\.13]
+- [Underlay](https://modrinth.com/mod/iltKD9qU) [1\.0\.1]
+- [Waystones](https://modrinth.com/mod/LOpKHB2A) [21\.6\.1]
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.2\.7]
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.39\.10]
