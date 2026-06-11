@@ -1,1 +1,2 @@
-# mods
+# Goblins
+The Goblins modpack.
