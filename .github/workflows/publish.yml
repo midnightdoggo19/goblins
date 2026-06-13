@@ -29,7 +29,7 @@ jobs:
       - name: Modrinth release
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          modrinth-id: $MODRINTH_SLUG
+          modrinth-id: rZBlUKXX
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files: ${{ steps.filename.outputs.filename }}
           game-versions: 1.21.6
