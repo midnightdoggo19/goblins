@@ -1,14 +1,3 @@
-# Goblins
-A currated collection of mods for 1.21.6, meant to make your vanilla experience a little bit *more*. We've got things like double doors & moths for the sake of atmosphere, but also some optional client-side comforts like Xaero's mini/world maps as well. This is of course not an exhaustive list; the full list can be found below.
-
-Expect occansional updates with slight tweaks, but probably nothing too major.
-
-Have fun!
-
-<!-- MODRINTH_EXCLUDE_START -->
-TODO: An image should go here.
-<!-- MODRINTH_EXCLUDE_END -->
-
 # Contents - v2.0-beta
 - [All\-Inclusive Hay Bales](https://modrinth.com/mod/H3Y2bGkF) [1\.21\.6\-1\.0\.2]
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [17\.0\.6]
