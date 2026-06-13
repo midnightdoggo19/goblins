@@ -9,8 +9,8 @@ Have fun!
 TODO: An image should go here.
 <!-- MODRINTH_EXCLUDE_END -->
 
-# Contents
-- [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) [1\.8\.2]
+# Contents - v2.0-beta
+- [All\-Inclusive Hay Bales](https://modrinth.com/mod/H3Y2bGkF) [1\.21\.6\-1\.0\.2]
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [17\.0\.6]
 - [Aurelj's Paintings](https://modrinth.com/mod/uiADepy3) [1\.0\.5]
 - [Axolotl Item Fix](https://modrinth.com/mod/UyUmjIeI) [1\.1\.11]
@@ -35,9 +35,7 @@ TODO: An image should go here.
 - [GlitchCore](https://modrinth.com/mod/s3dmwKy5) [2\.6\.0\.5]
 - [Happy Pride Moth\!](https://modrinth.com/mod/z4CDikCJ) [1\.9\.4\+1\.21\.8]
 - [Harvest with ease](https://modrinth.com/mod/W4Ajthd2) [9\.4\.0]
-- [Just Enough Breeding](https://modrinth.com/mod/9Pk89J3g) [1\.6\.2]
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.4\.11]
-- [Lootr](https://modrinth.com/mod/EltpO5cN) [1\.21\.6\-1\.16\.40\.97]
 - [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [3\.1\.2]
 - [Macaw's Doors](https://modrinth.com/mod/kNxa8z3e) [1\.1\.5]
 - [Macaw's Fences and Walls](https://modrinth.com/mod/GmwLse2I) [1\.2\.1]
@@ -49,11 +47,9 @@ TODO: An image should go here.
 - [Macaw's Windows](https://modrinth.com/mod/C7I0BCni) [2\.4\.2]
 - [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1\.21\.6\-2\.2\.9\-fabric]
 - [Night Lights](https://modrinth.com/mod/s7pMb898) [1\.3\.0]
-- [Particle Core](https://modrinth.com/mod/RSeLon5O) [0\.3\.3\+1\.21\.6]
 - [Pet Gravestone](https://modrinth.com/mod/8hjGGl7z) [1\.0\.0]
 - [Pride Update](https://modrinth.com/mod/FzfDwnAi) [1\.0\.9]
 - [Pufferfish's Biome Dither](https://modrinth.com/mod/xlybdB0E) [1\.0\.0]
-- [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) [20\.0\.811]
 - [Rustic Delight](https://modrinth.com/mod/foa4fGIH) [1\.5\.0]
 - [SereneSeasons](https://modrinth.com/mod/e0bNACJD) [21\.6\.0\.0]
 - [Structory](https://modrinth.com/mod/aKCwCJlY) [1\.3\.16]
@@ -61,7 +57,6 @@ TODO: An image should go here.
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) [2\.5\.13]
 - [Underlay](https://modrinth.com/mod/iltKD9qU) [1\.0\.1]
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) [21\.6\.1]
-- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.2\.7]
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.39\.10]
 
 # Credits
