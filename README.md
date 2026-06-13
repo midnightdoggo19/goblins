@@ -1,4 +1,4 @@
-# Contents - v2.0-beta
+# Contents
 - [All\-Inclusive Hay Bales](https://modrinth.com/mod/H3Y2bGkF) [1\.21\.6\-1\.0\.2]
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [17\.0\.6]
 - [Aurelj's Paintings](https://modrinth.com/mod/uiADepy3) [1\.0\.5]
