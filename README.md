@@ -1,3 +1,5 @@
+Major version number increments on breaking changes. The major version number is the only number. This is a good system.
+
 # Contents
 - [All\-Inclusive Hay Bales](https://modrinth.com/mod/H3Y2bGkF) [1\.21\.6\-1\.0\.2]
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [17\.0\.6]
