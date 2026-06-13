@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "Goblins",
-  "versionId": "2.0-beta"
+  "versionId": "2.0-beta",
   "dependencies": {
     "minecraft": "1.21.6",
     "fabric-loader": "0.19.3"
