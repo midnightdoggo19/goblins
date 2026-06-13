@@ -70,21 +70,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/hl5OLM95/versions/3pbmqlYX/Geophilic%20v3.5.mod.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 2616562,
-      "hashes": {
-        "sha1": "9b191ff2a06d0e5cc3cbbc19a6de463b2cad78dc",
-        "sha512": "0edf246d8e4844d3374cc1f86982175c30fa17ab6d452e06cb63f30a262f146c8473d06f48cf1a383eefa51ba0cafd3f9205fb6988bf739b7664ba29fd64e283"
-      },
-      "path": "mods/Geophilic v3.5.mod.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/s3dmwKy5/versions/uac4Zk8Z/GlitchCore-fabric-1.21.6-2.6.0.5.jar"
       ],
       "env": {
