@@ -1,0 +1,4 @@
+If you'd like to suggest a mod, open an issue using the [REQUEST] template.
+
+To build from source, just compress modrinth.index.json with zip compression and an .mrpack extension and you're good to go.
+This *will change* when overrides are supported. But not much.
