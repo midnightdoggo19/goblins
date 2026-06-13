@@ -1,0 +1,37 @@
+name: Publish to Modrinth
+
+on:
+  release:
+    types: [ released ] # TODO: support prereleases
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # checks out the latest commit *from the release (tag)* because of the release trigger
+      - uses: actions/checkout@v4
+
+      # takes input of the form "refs/tags/v1.1" and returns "v1.1" (version number) and "Goblins v1.1" (version name)
+      - name: Get version number
+        id: getversion
+        run: echo "version=$(echo $GITHUB_REF | sed s/"refs\\/tags\\/"//)" >> $GITHUB_OUTPUT |
+             echo "versionname=$(echo $GITHUB_REF | sed s/"refs\\/tags\\/"/Goblins\ /)" >> $GITHUB_OUTPUT
+
+      - name: Get file name
+        id: filename
+        run: echo "filename=$(echo goblins-${{ steps.getversion.outputs.version }}.mrpack )" >> $GITHUB_OUTPUT
+
+      # TODO: support overrides
+      - name: Build pack
+        run: zip ${{ steps.filename.outputs.filename }} modrinth.index.json
+
+      - name: Modrinth release
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: $MODRINTH_SLUG
+          files: ${{ steps.filename.outputs.filename }}
+          game-versions: 1.21.6
+          loaders: fabric
+          name: ${{ steps.getversion.outputs.versionname }}
+          version: ${{ steps.getversion.outputs.version }}
