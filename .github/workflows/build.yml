@@ -1,0 +1,24 @@
+name: Build
+
+on:
+  push:
+    branches: master
+    tags: v**
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload
+        uses: actions/upload-artifact@v7.0.1
+        with:
+          path: modrinth.index.json
+          name: goblins.mrpack
+          archive: true
+          if-no-files-found: error
+          compression-level: 9
+          retention-days: 90
