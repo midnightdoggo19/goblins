@@ -1,5 +1,13 @@
 # Goblins
-The Goblins modpack.
+A currated collection of mods for 1.21.6, meant to make your vanilla experience a little bit *more*. We've got things like double doors & moths for the sake of atmosphere, but also some optional client-side comforts like Xaero's mini/world maps as well. This is of course not an exhaustive list; the full list can be found below.
+
+Expect occansional updates with slight tweaks, but probably nothing too major.
+
+Have fun!
+
+<!-- MODRINTH_EXCLUDE_START -->
+TODO: An image should go here.
+<!-- MODRINTH_EXCLUDE_END -->
 
 # Contents
 - [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) [1\.8\.2]
@@ -55,3 +63,6 @@ The Goblins modpack.
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) [21\.6\.1]
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.2\.7]
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.39\.10]
+
+# Credits
+This pack is released to the public under the [MIT license](https://github.com/midnightdoggo19/goblins/blob/master/LICENSE). It was currated by Midnight Doggo & co.
