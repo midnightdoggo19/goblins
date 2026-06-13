@@ -30,6 +30,7 @@ jobs:
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: $MODRINTH_SLUG
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files: ${{ steps.filename.outputs.filename }}
           game-versions: 1.21.6
           loaders: fabric
