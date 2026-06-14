@@ -1,4 +1,4 @@
-name: Build
+name: Build & Upload
 
 on:
   push:
@@ -10,12 +10,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Build
+        run: zip goblins.mrpack pack/modrinth.index.json
+
       - name: Upload
         uses: actions/upload-artifact@v7.0.1
         with:
-          path: modrinth.index.json
+          path: goblins.mrpack
           name: goblins.mrpack
-          archive: true
+          archive: false
           if-no-files-found: error
-          compression-level: 9
           retention-days: 90
