@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "Goblins",
-  "versionId": "4",
+  "versionId": "5",
   "dependencies": {
     "fabric-loader": "0.19.3",
     "minecraft": "1.21.8"
@@ -430,6 +430,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Heh3BbSv/versions/lubT8eaq/gravestones-1.4.1%2B1.21.6%2BA.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 290995,
+      "hashes": {
+        "sha1": "24890cc4ca6e76b99e3d74d3ecf2eea157da92d1",
+        "sha512": "61474c4de5fcd8e0ee0b7abe64d086940bc56670b085efd98a01ea65c7f2b466cb3517a9223e26ec68dbd95987d6ceb79e9428bd7a62843231aee91c91576ec1"
+      },
+      "path": "mods/gravestones-1.4.1+1.21.6+A.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/W4Ajthd2/versions/fRhJsO2r/harvest-with-ease-fabric-1.21.8-9.4.0.jar"
       ],
       "env": {
@@ -622,6 +637,21 @@
         "sha512": "c87d97ae3579f3255bc248f5e363aacd3b73cfd855261d9e05742ff9e3d4aaf0e8db914beadcf2f1b2c9a7a284ac35296a66cadf1a3e8d0ee85f1740c3d4d17b"
       },
       "path": "mods/pet_gravestone-fabric-1.21.5-1.0.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZLKQjA7t/versions/6REiHFRc/pneumonocore-1.3.1%2B1.21.6%2BA.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 165068,
+      "hashes": {
+        "sha1": "0e89a23de84e0a3bfd0b210e232a3da15c97773d",
+        "sha512": "0ca5b343b18bd28317b47b8d9037860b004411b56b909a2e8166c501313f7dce33ab5f852601ad74084b8e27cf164a68a2249a413bdf67f491960ff707f305d9"
+      },
+      "path": "mods/pneumonocore-1.3.1+1.21.6+A.jar"
     },
     {
       "downloads": [
