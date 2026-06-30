@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "Goblins",
-  "versionId": "5",
+  "versionId": "6",
   "dependencies": {
     "fabric-loader": "0.19.3",
     "minecraft": "1.21.8"
@@ -460,6 +460,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/1LE7mid6/versions/A08JPvlS/instantgroup-fabric-1.21.8-1.7.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 499016,
+      "hashes": {
+        "sha1": "b13e7ed5bd1732a11772595d11764e5223988a64",
+        "sha512": "672064783b3297e84a60c52dc799c3da0fa968d9be4cacad8ff3a6f761237f0c32cf93da3c685255b15a030292ec1f579fdfd4f68f7405868952b391bded70a9"
+      },
+      "path": "mods/instantgroup-fabric-1.21.8-1.7.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/XaDC71GB/versions/NZcqYIgT/lithostitched-1.5.0%2Bbeta5-fabric-1.21.8.jar"
       ],
       "env": {
@@ -700,6 +715,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Ab2GBNpI/versions/otLrjRWa/radio-2.0%2B1.21.6.fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 367457,
+      "hashes": {
+        "sha1": "1d923161cefbb8637d6b5942fafe180e51dbeb7f",
+        "sha512": "2f84223bdfc0a3e1978f3f2e1d1540b9719e89b681b39d342a9176403b630947d8eb69ae1d87375564f71fbca1f4d6c85b0cf3346e0d859f8997ee03a88c0f52"
+      },
+      "path": "mods/radio-2.0+1.21.6.fabric.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/foa4fGIH/versions/dgoUsyG0/rusticdelight-fabric-1.21.8-1.5.0.jar"
       ],
       "env": {
@@ -745,6 +775,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/hWuFISLu/voicechat-fabric-1.21.8-2.6.20.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 5481989,
+      "hashes": {
+        "sha1": "2c79b4b1d5cb913087b8aad4749e75fcb4fdfae7",
+        "sha512": "c22ae84d88416801e4d38d3fabb81c82bf5f6f997d33f5273fecbebbd3ef6f1c5cf361f8e0d37dfb409d9a1052d7162dfa1e6d9292c0d540ccfca05a9732d333"
+      },
+      "path": "mods/voicechat-fabric-1.21.8-2.6.20.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/LOpKHB2A/versions/jPsizyXy/waystones-fabric-1.21.8-21.8.5.jar"
       ],
       "env": {
@@ -757,6 +802,21 @@
         "sha512": "6eb60ddd176a7bc0060940e32ef0642056914b8d90115c06a789cf358c428dab2815525932ecfbdc73aea8f95166390367648c9aec8f2e37a44edc08457baa2c"
       },
       "path": "mods/waystones-fabric-1.21.8-21.8.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/q3tICGpu/versions/mv1S5IOv/wiretap-1.3.0%2B1.21.6.fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 395768,
+      "hashes": {
+        "sha1": "e244ab8518a903e60509e786bcc8fdf611b66113",
+        "sha512": "48a5925c2217a96fcf810d68c7500c6df3ee876ea98af1c4feb561022edc6d9b10f2c58433e3d62772648c1936ee53cbdec752438e56731b9810f9161b73cac6"
+      },
+      "path": "mods/wiretap-1.3.0+1.21.6.fabric.jar"
     },
     {
       "downloads": [
